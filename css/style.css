@@ -11,7 +11,7 @@
   --dark-brand-color: #202020;
 
   /* brand color */
-  --brand-color: #d11723;
+  --brand-color: #f93e2e;
 
   /* Primary Text Color */
   --primaryColor: #404742;
@@ -33,7 +33,7 @@
 }
 
 body {
-  font-family: "Outfit", sans-serif;
+  font-family: 'Luckiest Guy';
   color: var(--primaryColor);
   background-color: var(--bodyColor);
   text-align: left;
@@ -48,7 +48,7 @@ html {
 }
 
 body.home-rtl {
-  font-family: "Tajawal", sans-serif;
+  font-family: "Tajwal", sans-serif;
 }
 
 /* ========== start dark-mode colors ============ */
@@ -1711,6 +1711,7 @@ svg {
 
 .footer .copyrights a {
   color: #d8d8d8;
+  font-family: "Outfit", sans-serif;
 }
 
 .footer hr {
