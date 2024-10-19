@@ -39,6 +39,22 @@
   <!-- main css file -->
   <link rel="stylesheet" href="css/style.css">
   <title>NotGpl</title>
+      <script>
+        function animateTitle(textArray, interval) {
+            let currentIndex = 0;
+            setInterval(function() {
+                document.title = textArray[currentIndex];
+                currentIndex = (currentIndex + 1) % textArray.length;
+            }, interval);
+        }
+        
+        window.onload = function() {
+            
+            let titles = ["NotGpl", "Welcome", "To", "My" , "Page!"];
+            
+            animateTitle(titles, 1000);
+        };
+    </script>
 </head>
 
 <body class="home-1">
