@@ -1,15 +1,11 @@
-/*===================================================
-Project: techida | IT Solutions & Business Services HTML landing page template  
-Author: ERRAMIX
-====================================================*/
 
 /* start global classes */
 :root {
   /* body bg color */
-  --bodyColor: #f8f6f4;
+  --bodyColor: #151515;
 
   /* box bg color */
-  --boxColor: #eff0ef;
+  --boxColor: #1e1e1e;
 
   /* dark brand color */
   --dark-brand-color: radial-gradient(circle, #24246e, #06051f);
@@ -18,13 +14,13 @@ Author: ERRAMIX
   --brand-color: radial-gradient(circle, #24246e, #06051f);
 
   /* Primary Text Color */
-  --primaryColor: #404742;
+  --primaryColor: #e4e6e4;
 
   /* title 2 Color (subtitle-color) */
-  --title-2-color: #292836;
+  --title-2-color: #ebebeb;
 
   /* Secondary Text Color */
-  --secendaryColor: #5e5e5e;
+  --secendaryColor: #bcbcbc;
 
   /* border radius */
   --border-radius: 5px;
