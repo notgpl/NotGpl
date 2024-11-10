@@ -1,7 +1,3 @@
-/*===================================================
-Project: techida | IT Solutions & Business Services HTML landing page template  
-Author: ERRAMIX
-====================================================*/
 
 /* start global classes */
 :root {
@@ -15,7 +11,7 @@ Author: ERRAMIX
   --dark-brand-color: radial-gradient(circle, #24246e, #06051f);
 
   /* brand color */
-  --brand-color: radial-gradient(circle, #24246e, #06051f);
+  --brand-color: #24246e;
 
   /* Primary Text Color */
   --primaryColor: #e4e6e4;
