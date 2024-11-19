@@ -595,8 +595,8 @@ svg {
   width: 35px;
   height: 35px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
 }
 
 .home-3 .hero .hero-text .icons i {
