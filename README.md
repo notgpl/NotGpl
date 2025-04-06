@@ -1,3 +1,3 @@
-🚀 I'm Adarsh, a passionate Web Designer helping businesses grow with stunning and affordable websites.
-💼 Ready to elevate your brand online? Let’s build something powerful together!
+🚀 I'm Adarsh, a passionate Web Designer helping businesses grow with stunning and affordable websites! <br>
+💼 Ready to elevate your brand online? Let’s build something powerful together! <br>
 📩 Reach out to get started...
